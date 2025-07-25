@@ -26,8 +26,6 @@ The **Library Management System** is a simple Java-based console application tha
 
 ## 📁 Project Structure
 
-```
-
 Library-Management-System-by-JAVA/
 ├── Book.java                  # Book class - defines book attributes
 ├── Library.java               # Core library operations (add/search/remove/borrow)
